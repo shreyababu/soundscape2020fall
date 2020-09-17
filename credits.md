@@ -20,3 +20,41 @@ Guidelines for a Soundscape Narrative project, part of [Ben Miller's Composing D
 -https://freesound.org/people/Alivvie/sounds/451270/ (licensed under the Attribution License)
 -https://freesound.org/people/neilraouf/sounds/484513/ (licensed under the Creative Commons 0 License)
 -https://freesound.org/people/ken788/sounds/386762/ (licensed under the Creative Commons 0 License)
+-https://freesound.org/people/InspectorJ/sounds/455602/ (licensed under the Attribution License)
+-http://soundbible.com/1424-Air-Plane-Ding.html (licensed under Sampling Plus 1.0)
+-https://www.bensound.com/royalty-free-music/track/sad-day 
+-https://freesound.org/people/TheNordicDawn/sounds/519180/ (licensed under the Creative Commons 0 License)
+-https://freesound.org/people/InspectorJ/sounds/414976/ (licensed under the Attribution License)
+-https://freesound.org/people/stereobrother/sounds/445344/ (licensed under the Creative Commons 0 License)
+-https://freesound.org/people/DRFX/sounds/353712/ (licensed under the Creative Commons 0 License)
+
+**FAIR USE CLIPS:**
+-https://www.youtube.com/watch?v=yEBnsgGA3Rc george floyd death 
+
+-https://www.youtube.com/watch?v=G0vd0LhL_gM WHO declares global pandemic 
+
+-https://www.youtube.com/watch?v=1byWQ9aIMdc death toll predictions 
+
+-https://www.youtube.com/watch?v=JFj8RXvUliI deaths surpassed 160k
+
+-https://www.youtube.com/watch?v=VhzdOEP62Lw murder hornets 
+
+-https://www.youtube.com/watch?v=S62nbs8LxJM wildfires 
+
+-https://www.youtube.com/watch?v=POydahh1gDg kobe bryant 
+
+-https://www.youtube.com/watch?v=7GYWC_UR1ZU beirut explosion 
+
+-https://www.youtube.com/watch?v=Xr3Hiuvaif0 iran and US 
+
+-https://www.youtube.com/watch?v=8_I8TuF_dLA us and iran on the brink 
+
+-https://www.youtube.com/watch?v=8LGgcVGMKWo impeachment trial 
+
+-https://www.youtube.com/watch?v=3V4LFDtKrV0 protestors george floyd 
+
+-https://www.youtube.com/watch?v=WOtq897BRy0 ahmaud arbery 
+
+-https://www.youtube.com/watch?v=DZ2j7zAGvdA breonna taylor 
+
+-https://www.youtube.com/watch?v=DlKec-Bm4Yo counting backwards
