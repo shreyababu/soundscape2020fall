@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Dinner Party NYE 2020 Project_data" version="1.3.0" audacityversion="2.3.2" sel0="138.3497334121" sel1="138.3497334121" vpos="2784" h="218.1042115936" zoom="158.9377836710" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Dinner Party NYE 2020 Project_data" version="1.3.0" audacityversion="2.3.2" sel0="63.7190397361" sel1="63.7190397361" vpos="1696" h="10.8202142948" zoom="9.9813180273" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="TITLE" value="Alert remain six feet apart "/>
 		<tag name="ARTIST" value="septahelix"/>
@@ -431,76 +431,88 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="26-year-old woman killed during what her family’s attorney calls _botched_ execution of warrant" channel="0" linked="1" mute="0" solo="0" height="65" minimized="0" isSelected="1" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="141.54344671" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="479653">
+	<wavetrack name="Key coronavirus model projects U.S. death toll surpassing 410,000 by January" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0" colorindex="0">
+		<waveclip offset="137.61380952" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="469255">
 				<waveblock start="0">
-					<simpleblockfile filename="e0804091.au" len="262144" min="-0.425893" max="0.477023" rms="0.045778"/>
+					<simpleblockfile filename="e0803f4d.au" len="195914" min="-0.213684" max="0.321564" rms="0.044816"/>
 				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="e0804fd3.au" len="217509" min="-0.23385" max="0.28082" rms="0.042738"/>
+				<waveblock start="195914">
+					<simpleblockfile filename="e0803143.au" len="136670" min="-0.192566" max="0.209808" rms="0.038492"/>
+				</waveblock>
+				<waveblock start="332584">
+					<simpleblockfile filename="e0803aa1.au" len="136671" min="-0.225372" max="0.276733" rms="0.046398"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="26-year-old woman killed during what her family’s attorney calls _botched_ execution of warrant" channel="1" linked="0" mute="0" solo="0" height="65" minimized="0" isSelected="1" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="141.54344671" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="479653">
+	<wavetrack name="Key coronavirus model projects U.S. death toll surpassing 410,000 by January" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0" colorindex="0">
+		<waveclip offset="137.61380952" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="469255">
 				<waveblock start="0">
-					<simpleblockfile filename="e08040a1.au" len="262144" min="-0.425893" max="0.477023" rms="0.045778"/>
+					<simpleblockfile filename="e0803cbf.au" len="195914" min="-0.213684" max="0.321564" rms="0.044816"/>
 				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="e080482b.au" len="217509" min="-0.23385" max="0.28082" rms="0.042738"/>
+				<waveblock start="195914">
+					<simpleblockfile filename="e08033bd.au" len="136670" min="-0.192566" max="0.209808" rms="0.038492"/>
+				</waveblock>
+				<waveblock start="332584">
+					<simpleblockfile filename="e0803c4c.au" len="136671" min="-0.225372" max="0.276733" rms="0.046398"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="3 Men Indicted On Murder Charges In Death Of Ahmaud Arbery _ NBC Nightly News" channel="0" linked="1" mute="0" solo="0" height="53" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
-		<waveclip offset="135.37421769" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="272063">
+	<wavetrack name="Historic Wildfires Scorch A Record 3 Million Acres In The West _ TODAY" channel="0" linked="1" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="130.58168694" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="309295">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808e2d.au" len="131581" min="-0.311798" max="0.34726" rms="0.060244"/>
+					<simpleblockfile filename="e0804a6d.au" len="151800" min="-0.503204" max="0.578522" rms="0.078708"/>
 				</waveblock>
-				<waveblock start="131581">
-					<simpleblockfile filename="e0804c44.au" len="140482" min="-0.315155" max="0.315308" rms="0.055994"/>
+				<waveblock start="151800">
+					<simpleblockfile filename="e0803fde.au" len="157495" min="-0.391327" max="0.372803" rms="0.068969"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 		<waveclip offset="148.25451247" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="65616">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="286074">
 				<waveblock start="0">
-					<simpleblockfile filename="e0804108.au" len="65616" min="-0.316796" max="0.31569" rms="0.046874"/>
+					<simpleblockfile filename="e080484e.au" len="262144" min="-0.503083" max="0.580163" rms="0.071546"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08049e1.au" len="23930" min="-0.33384" max="0.372912" rms="0.062612"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="3 Men Indicted On Murder Charges In Death Of Ahmaud Arbery _ NBC Nightly News" channel="1" linked="0" mute="0" solo="0" height="53" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
-		<waveclip offset="135.37421769" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="272063">
+	<wavetrack name="Historic Wildfires Scorch A Record 3 Million Acres In The West _ TODAY" channel="1" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="130.58168694" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="309295">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808604.au" len="131581" min="-0.311798" max="0.34726" rms="0.060244"/>
+					<simpleblockfile filename="e08044a4.au" len="151800" min="-0.503204" max="0.578522" rms="0.078708"/>
 				</waveblock>
-				<waveblock start="131581">
-					<simpleblockfile filename="e080435c.au" len="140482" min="-0.315155" max="0.315308" rms="0.055994"/>
+				<waveblock start="151800">
+					<simpleblockfile filename="e0804cc0.au" len="157495" min="-0.391327" max="0.372803" rms="0.068968"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 		<waveclip offset="148.25451247" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="65616">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="286074">
 				<waveblock start="0">
-					<simpleblockfile filename="e0804b8b.au" len="65616" min="-0.316796" max="0.31569" rms="0.046874"/>
+					<simpleblockfile filename="e080442c.au" len="262144" min="-0.503083" max="0.580163" rms="0.071546"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08047f5.au" len="23930" min="-0.33384" max="0.372912" rms="0.062611"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="ABC News Live update_ Officers charged with George Floyd’s death appear before judge" channel="0" linked="1" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
-		<waveclip offset="124.45197279" colorindex="0">
+	<wavetrack name="protests" channel="0" linked="1" mute="0" solo="0" height="24" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
+		<waveclip offset="119.65944204" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="481671">
 				<waveblock start="0">
 					<simpleblockfile filename="e08087c2.au" len="182584" min="-0.341309" max="0.343781" rms="0.053122"/>
@@ -526,8 +538,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="ABC News Live update_ Officers charged with George Floyd’s death appear before judge" channel="1" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
-		<waveclip offset="124.45197279" colorindex="0">
+	<wavetrack name="protests" channel="1" linked="0" mute="0" solo="0" height="24" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
+		<waveclip offset="119.65944204" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="481671">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808706.au" len="182584" min="-0.341309" max="0.343781" rms="0.053122"/>
@@ -553,98 +565,48 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="George Floyd killing sparks worldwide protests against racism _ DW News" channel="0" linked="1" mute="0" solo="0" height="49" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="118.21702948" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="274961">
+	<wavetrack name="US coronavirus deaths surpass 160,000" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="5.011872" pan="0.0" colorindex="0">
+		<waveclip offset="113.86334227" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="255608">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808c60.au" len="133889" min="-0.344391" max="0.348328" rms="0.053353"/>
-				</waveblock>
-				<waveblock start="133889">
-					<simpleblockfile filename="e08047ab.au" len="141072" min="-0.30246" max="0.317474" rms="0.04823"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="148.25451247" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="254318">
-				<waveblock start="0">
-					<simpleblockfile filename="e0804760.au" len="254318" min="-0.306479" max="0.3473" rms="0.049538"/>
+					<simpleblockfile filename="e08089fb.au" len="255608" min="-0.116394" max="0.091644" rms="0.015773"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="George Floyd killing sparks worldwide protests against racism _ DW News" channel="1" linked="0" mute="0" solo="0" height="49" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="118.21702948" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="274961">
+	<wavetrack name="US coronavirus deaths surpass 160,000" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="5.011872" pan="0.0" colorindex="0">
+		<waveclip offset="113.86334227" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="255608">
 				<waveblock start="0">
-					<simpleblockfile filename="e08087f0.au" len="133889" min="-0.344391" max="0.348328" rms="0.053353"/>
-				</waveblock>
-				<waveblock start="133889">
-					<simpleblockfile filename="e0804e45.au" len="141072" min="-0.30246" max="0.317474" rms="0.04823"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="148.25451247" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="254318">
-				<waveblock start="0">
-					<simpleblockfile filename="e080462c.au" len="254318" min="-0.306479" max="0.3473" rms="0.049538"/>
+					<simpleblockfile filename="e0808bb5.au" len="255608" min="-0.116394" max="0.091644" rms="0.015773"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Historic Wildfires Scorch A Record 3 Million Acres In The West _ TODAY" channel="0" linked="1" mute="0" solo="0" height="51" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
-		<waveclip offset="111.20353742" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="309295">
+	<wavetrack name="beirut" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="2.238721" pan="0.0" colorindex="0">
+		<waveclip offset="109.39592730" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="197013">
 				<waveblock start="0">
-					<simpleblockfile filename="e0804a6d.au" len="151800" min="-0.503204" max="0.578522" rms="0.078708"/>
-				</waveblock>
-				<waveblock start="151800">
-					<simpleblockfile filename="e0803fde.au" len="157495" min="-0.391327" max="0.372803" rms="0.068969"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="148.25451247" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="286074">
-				<waveblock start="0">
-					<simpleblockfile filename="e080484e.au" len="262144" min="-0.503083" max="0.580163" rms="0.071546"/>
-				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="e08049e1.au" len="23930" min="-0.33384" max="0.372912" rms="0.062612"/>
+					<simpleblockfile filename="e080352b.au" len="197013" min="-0.256383" max="0.264195" rms="0.063282"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Historic Wildfires Scorch A Record 3 Million Acres In The West _ TODAY" channel="1" linked="0" mute="0" solo="0" height="51" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
-		<waveclip offset="111.20353742" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="309295">
+	<wavetrack name="beirut" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="2.238721" pan="0.0" colorindex="0">
+		<waveclip offset="109.39592730" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="197013">
 				<waveblock start="0">
-					<simpleblockfile filename="e08044a4.au" len="151800" min="-0.503204" max="0.578522" rms="0.078708"/>
-				</waveblock>
-				<waveblock start="151800">
-					<simpleblockfile filename="e0804cc0.au" len="157495" min="-0.391327" max="0.372803" rms="0.068968"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="148.25451247" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="286074">
-				<waveblock start="0">
-					<simpleblockfile filename="e080442c.au" len="262144" min="-0.503083" max="0.580163" rms="0.071546"/>
-				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="e08047f5.au" len="23930" min="-0.33384" max="0.372912" rms="0.062611"/>
+					<simpleblockfile filename="e0803d58.au" len="197013" min="-0.256383" max="0.264459" rms="0.063282"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Iran, U.S. Tensions Heighten After Passenger Jet Incident _ NBC News NOW" channel="0" linked="1" mute="0" solo="0" height="59" minimized="0" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
-		<waveclip offset="103.25312925" colorindex="0">
+	<wavetrack name="Iran, U.S. Tensions Heighten After Passenger Jet Incident _ NBC News NOW" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="101.44551914" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="350613">
 				<waveblock start="0">
 					<simpleblockfile filename="e0803455.au" len="163710" min="-0.225952" max="0.298981" rms="0.070296"/>
@@ -667,8 +629,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Iran, U.S. Tensions Heighten After Passenger Jet Incident _ NBC News NOW" channel="1" linked="0" mute="0" solo="0" height="59" minimized="0" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
-		<waveclip offset="103.25312925" colorindex="0">
+	<wavetrack name="Iran, U.S. Tensions Heighten After Passenger Jet Incident _ NBC News NOW" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="101.44551914" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="350613">
 				<waveblock start="0">
 					<simpleblockfile filename="e08031cc.au" len="163710" min="-0.225952" max="0.298981" rms="0.070296"/>
@@ -691,40 +653,174 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Key coronavirus model projects U.S. death toll surpassing 410,000 by January" channel="0" linked="1" mute="0" solo="0" height="57" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0" colorindex="0">
-		<waveclip offset="92.61242630" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="469255">
+	<wavetrack name="3 Men Indicted On Murder Charges In Death Of Ahmaud Arbery _ NBC Nightly News" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
+		<waveclip offset="148.25451247" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65616">
 				<waveblock start="0">
-					<simpleblockfile filename="e0803f4d.au" len="195914" min="-0.213684" max="0.321564" rms="0.044816"/>
+					<simpleblockfile filename="e0804108.au" len="65616" min="-0.316796" max="0.31569" rms="0.046874"/>
 				</waveblock>
-				<waveblock start="195914">
-					<simpleblockfile filename="e0803143.au" len="136670" min="-0.192566" max="0.209808" rms="0.038492"/>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="95.27629011" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="272063">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e2d.au" len="131581" min="-0.311798" max="0.34726" rms="0.060244"/>
 				</waveblock>
-				<waveblock start="332584">
-					<simpleblockfile filename="e0803aa1.au" len="136671" min="-0.225372" max="0.276733" rms="0.046398"/>
+				<waveblock start="131581">
+					<simpleblockfile filename="e0804c44.au" len="140482" min="-0.315155" max="0.315308" rms="0.055994"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Key coronavirus model projects U.S. death toll surpassing 410,000 by January" channel="1" linked="0" mute="0" solo="0" height="57" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0" colorindex="0">
-		<waveclip offset="92.61242630" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="469255">
+	<wavetrack name="3 Men Indicted On Murder Charges In Death Of Ahmaud Arbery _ NBC Nightly News" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
+		<waveclip offset="148.25451247" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65616">
 				<waveblock start="0">
-					<simpleblockfile filename="e0803cbf.au" len="195914" min="-0.213684" max="0.321564" rms="0.044816"/>
+					<simpleblockfile filename="e0804b8b.au" len="65616" min="-0.316796" max="0.31569" rms="0.046874"/>
 				</waveblock>
-				<waveblock start="195914">
-					<simpleblockfile filename="e08033bd.au" len="136670" min="-0.192566" max="0.209808" rms="0.038492"/>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="95.27629011" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="272063">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808604.au" len="131581" min="-0.311798" max="0.34726" rms="0.060244"/>
 				</waveblock>
-				<waveblock start="332584">
-					<simpleblockfile filename="e0803c4c.au" len="136671" min="-0.225372" max="0.276733" rms="0.046398"/>
+				<waveblock start="131581">
+					<simpleblockfile filename="e080435c.au" len="140482" min="-0.315155" max="0.315308" rms="0.055994"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="George Floyd killing sparks worldwide protests against racism _ DW News" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
+		<waveclip offset="89.04134680" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="274961">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c60.au" len="133889" min="-0.344391" max="0.348328" rms="0.053353"/>
+				</waveblock>
+				<waveblock start="133889">
+					<simpleblockfile filename="e08047ab.au" len="141072" min="-0.30246" max="0.317474" rms="0.04823"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="153.93712018" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="12">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e9a.au" len="12" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="148.25451247" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="250603">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808752.au" len="250603" min="-0.145295" max="0.15201" rms="0.023746"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="George Floyd killing sparks worldwide protests against racism _ DW News" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
+		<waveclip offset="89.04134680" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="274961">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087f0.au" len="133889" min="-0.344391" max="0.348328" rms="0.053353"/>
+				</waveblock>
+				<waveblock start="133889">
+					<simpleblockfile filename="e0804e45.au" len="141072" min="-0.30246" max="0.317474" rms="0.04823"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="153.93712018" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="12">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088eb.au" len="12" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="148.25451247" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="250603">
+				<waveblock start="0">
+					<simpleblockfile filename="e080847d.au" len="250603" min="-0.145295" max="0.15201" rms="0.023746"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="26-year-old woman killed during what her family’s attorney calls _botched_ execution of warrant" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
+		<waveclip offset="82.29580499" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="297478">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f5a.au" len="148739" min="-0.304887" max="0.477023" rms="0.043697"/>
+				</waveblock>
+				<waveblock start="148739">
+					<simpleblockfile filename="e0808aaa.au" len="148739" min="-0.425893" max="0.389118" rms="0.045611"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="26-year-old woman killed during what her family’s attorney calls _botched_ execution of warrant" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
+		<waveclip offset="82.29580499" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="297478">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808044.au" len="148739" min="-0.304887" max="0.477023" rms="0.043697"/>
+				</waveblock>
+				<waveblock start="148739">
+					<simpleblockfile filename="e08083e3.au" len="148739" min="-0.425893" max="0.389118" rms="0.045611"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="‘Murder Hornets’ spotted in US" channel="0" linked="1" mute="0" solo="0" height="27" minimized="0" isSelected="1" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
+		<waveclip offset="78.40619048" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="171532">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089d5.au" len="171532" min="-0.335815" max="0.342468" rms="0.069647"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="‘Murder Hornets’ spotted in US" channel="1" linked="0" mute="0" solo="0" height="27" minimized="0" isSelected="1" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
+		<waveclip offset="78.40619048" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="171532">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084f4.au" len="171532" min="-0.335815" max="0.342468" rms="0.069647"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="WHO declares pandemic" channel="0" linked="1" mute="0" solo="0" height="52" minimized="0" isSelected="0" rate="44100" gain="2.818383" pan="0.0" colorindex="0">
+		<waveclip offset="73.90267574" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198605">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a3e.au" len="198605" min="-0.233368" max="0.243713" rms="0.04646"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="WHO declares pandemic" channel="1" linked="0" mute="0" solo="0" height="52" minimized="0" isSelected="0" rate="44100" gain="2.818383" pan="0.0" colorindex="0">
+		<waveclip offset="73.90267574" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198605">
+				<waveblock start="0">
+					<simpleblockfile filename="e080875d.au" len="198605" min="-0.233368" max="0.243713" rms="0.04646"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Kobe Bryant Dies In Helicopter Crash In California _ NBC News" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0" colorindex="0">
-		<waveclip offset="87.17378685" colorindex="0">
+		<waveclip offset="68.46403628" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="239844">
 				<waveblock start="0">
 					<simpleblockfile filename="e0803590.au" len="239844" min="-0.362335" max="0.235504" rms="0.059252"/>
@@ -734,7 +830,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Kobe Bryant Dies In Helicopter Crash In California _ NBC News" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0" colorindex="0">
-		<waveclip offset="87.17378685" colorindex="0">
+		<waveclip offset="68.46403628" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="239844">
 				<waveblock start="0">
 					<simpleblockfile filename="e080388f.au" len="239844" min="-0.362335" max="0.235504" rms="0.059252"/>
@@ -744,7 +840,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Third impeachment trial in US history begins Tuesday" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
-		<waveclip offset="82.03034014" colorindex="0">
+		<waveclip offset="63.32058957" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="226826">
 				<waveblock start="0">
 					<simpleblockfile filename="e080831f.au" len="226826" min="-0.286316" max="0.342346" rms="0.051361"/>
@@ -754,7 +850,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Third impeachment trial in US history begins Tuesday" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
-		<waveclip offset="82.03034014" colorindex="0">
+		<waveclip offset="63.32058957" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="226826">
 				<waveblock start="0">
 					<simpleblockfile filename="e08086dc.au" len="226826" min="-0.286316" max="0.342346" rms="0.051361"/>
@@ -764,7 +860,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="US and Iran on the brink of war l ABC News" channel="0" linked="1" mute="0" solo="0" height="25" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="70.31893424" colorindex="0">
+		<waveclip offset="51.60918367" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="516473">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808020.au" len="257761" min="-0.311823" max="0.358981" rms="0.060382"/>
@@ -777,93 +873,13 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="US and Iran on the brink of war l ABC News" channel="1" linked="0" mute="0" solo="0" height="25" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="70.31893424" colorindex="0">
+		<waveclip offset="51.60918367" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="516473">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808a03.au" len="257761" min="-0.311823" max="0.358981" rms="0.060382"/>
 				</waveblock>
 				<waveblock start="257761">
 					<simpleblockfile filename="e0803fef.au" len="258712" min="-0.353576" max="0.403817" rms="0.053343"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="US coronavirus deaths surpass 160,000" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="5.011872" pan="0.0" colorindex="0">
-		<waveclip offset="64.52283447" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="255608">
-				<waveblock start="0">
-					<simpleblockfile filename="e08089fb.au" len="255608" min="-0.116394" max="0.091644" rms="0.015773"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="US coronavirus deaths surpass 160,000" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="5.011872" pan="0.0" colorindex="0">
-		<waveclip offset="64.52283447" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="255608">
-				<waveblock start="0">
-					<simpleblockfile filename="e0808bb5.au" len="255608" min="-0.116394" max="0.091644" rms="0.015773"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="Widespread damage after huge explosion in Beirut - BBC News" channel="0" linked="1" mute="0" solo="0" height="27" minimized="0" isSelected="0" rate="44100" gain="2.238721" pan="0.0" colorindex="0">
-		<waveclip offset="60.05541950" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="197013">
-				<waveblock start="0">
-					<simpleblockfile filename="e080352b.au" len="197013" min="-0.256383" max="0.264195" rms="0.063282"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="Widespread damage after huge explosion in Beirut - BBC News" channel="1" linked="0" mute="0" solo="0" height="27" minimized="0" isSelected="0" rate="44100" gain="2.238721" pan="0.0" colorindex="0">
-		<waveclip offset="60.05541950" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="197013">
-				<waveblock start="0">
-					<simpleblockfile filename="e0803d58.au" len="197013" min="-0.256383" max="0.264459" rms="0.063282"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="‘Murder Hornets’ spotted in US" channel="0" linked="1" mute="0" solo="0" height="27" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="56.16580499" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="171532">
-				<waveblock start="0">
-					<simpleblockfile filename="e08089d5.au" len="171532" min="-0.335815" max="0.342468" rms="0.069647"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="‘Murder Hornets’ spotted in US" channel="1" linked="0" mute="0" solo="0" height="27" minimized="0" isSelected="0" rate="44100" gain="2.511886" pan="0.0" colorindex="0">
-		<waveclip offset="56.16580499" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="171532">
-				<waveblock start="0">
-					<simpleblockfile filename="e08084f4.au" len="171532" min="-0.335815" max="0.342468" rms="0.069647"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="WHO declares pandemic" channel="0" linked="1" mute="0" solo="0" height="27" minimized="0" isSelected="0" rate="44100" gain="6.309574" pan="0.0" colorindex="0">
-		<waveclip offset="51.66229025" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="198605">
-				<waveblock start="0">
-					<simpleblockfile filename="e0808a3e.au" len="198605" min="-0.233368" max="0.243713" rms="0.04646"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="WHO declares pandemic" channel="1" linked="0" mute="0" solo="0" height="27" minimized="0" isSelected="0" rate="44100" gain="6.309574" pan="0.0" colorindex="0">
-		<waveclip offset="51.66229025" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="198605">
-				<waveblock start="0">
-					<simpleblockfile filename="e080875d.au" len="198605" min="-0.233368" max="0.243713" rms="0.04646"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -1277,7 +1293,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="TRIMMED COUNTDOWN" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="7.943282" pan="0.0" colorindex="0">
+	<wavetrack name="TRIMMED COUNTDOWN" channel="0" linked="1" mute="0" solo="0" height="48" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
 		<waveclip offset="166.35664399" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="312848">
 				<waveblock start="0">
@@ -1292,13 +1308,13 @@
 		<waveclip offset="176.31269921" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="61134">
 				<waveblock start="0">
-					<simpleblockfile filename="e080ce05.au" len="61134" min="-0.021216" max="0.024401" rms="0.001992"/>
+					<simpleblockfile filename="e080812b.au" len="61134" min="-0.083495" max="0.096032" rms="0.007839"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="TRIMMED COUNTDOWN" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="0" rate="44100" gain="7.943282" pan="0.0" colorindex="0">
+	<wavetrack name="TRIMMED COUNTDOWN" channel="1" linked="0" mute="0" solo="0" height="48" minimized="0" isSelected="0" rate="44100" gain="3.548134" pan="0.0" colorindex="0">
 		<waveclip offset="166.35664399" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="312848">
 				<waveblock start="0">
@@ -1313,7 +1329,7 @@
 		<waveclip offset="176.31269921" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="61134">
 				<waveblock start="0">
-					<simpleblockfile filename="e080cdf7.au" len="61134" min="-0.022668" max="0.024749" rms="0.002019"/>
+					<simpleblockfile filename="e0808a2b.au" len="61134" min="-0.08921" max="0.097398" rms="0.007945"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
