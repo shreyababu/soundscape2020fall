@@ -1,7 +1,6 @@
-# soundscape2020fall
-Guidelines for a Soundscape Narrative project, part of [Ben Miller's Composing Digital Media](https://benmiller314.github.io/cdm2020fall) course
+**Soundscape Narrative Credits**
 
-**Sounds from freesound.org for intro NYE scene**
+**Licensed Outside Sources**
 
 -https://freesound.org/people/sagetyrtle/sounds/76693/ (licensed under the Attribution License)
 -https://freesound.org/people/Aiwha/sounds/250696/ (licensed under the Creative Commons 0 License)
@@ -27,6 +26,7 @@ Guidelines for a Soundscape Narrative project, part of [Ben Miller's Composing D
 -https://freesound.org/people/InspectorJ/sounds/414976/ (licensed under the Attribution License)
 -https://freesound.org/people/stereobrother/sounds/445344/ (licensed under the Creative Commons 0 License)
 -https://freesound.org/people/DRFX/sounds/353712/ (licensed under the Creative Commons 0 License)
+-https://freesound.org/people/FrostyFrost/sounds/348364/ (licensed under the Creative Commons 0 License)
 
 **FAIR USE CLIPS:**
 -https://www.youtube.com/watch?v=yEBnsgGA3Rc george floyd death 
@@ -58,3 +58,11 @@ Guidelines for a Soundscape Narrative project, part of [Ben Miller's Composing D
 -https://www.youtube.com/watch?v=DZ2j7zAGvdA breonna taylor 
 
 -https://www.youtube.com/watch?v=DlKec-Bm4Yo counting backwards
+
+-https://www.youtube.com/watch?v=TW56HYM9Bsw new years countdown
+
+**Self-Recorded Audio:**
+
+-Shreya Babu: "I know, I'm so excited!", flight announcement, ALERT remain 6 feet apart, final "happy new year"
+
+-Meghna Babu: sad "happy new year", sighing
